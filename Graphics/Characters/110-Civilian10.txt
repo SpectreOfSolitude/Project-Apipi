@@ -1,0 +1,1 @@
+This edit fixes the fact that someone at Enterbrain messed up the Right Movement Animation.  This graphic here fixes that.

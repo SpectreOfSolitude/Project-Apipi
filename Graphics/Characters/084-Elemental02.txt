@@ -1,0 +1,2 @@
+This EDIT will FIX a small glitch in this characters move animation where
+some pixels from adjacent frames overlapped into other frames.

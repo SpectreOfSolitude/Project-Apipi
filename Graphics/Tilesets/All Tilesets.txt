@@ -1,0 +1,38 @@
+There are TWO versions of the All Tilesets file
+
+All Tilesets (Sensor Tiles Displayed).png
+All Tilesets.png
+
+Sensor Tiles Displayed has to do with the Super Event Sensor script.
+
+These specific tiles are set up with the Demo in the Database so these tiles have
+a Priority of 5 and NO GRAPHIC so they are IMPOSSIBLE to see.  They use specific
+Terrain Tags to prevent and allow Sensors to work with walls as you desire without
+having to dupicate graphics or edit the Passage Settings of existing tilesets.  What
+makes Super Event Sensor work has nothing to do with the graphics you use.  It gets
+its settings from the Game Database and NOT the Graphics so you can display anything
+you want.  The two files are identical except for a Red X and a Red O at the very
+bottom of the massive images, so the game will use the same Passage settings for
+both of the Image Files.
+
+This also helps you so you do NOT have to import and set up all the 
+settings for each Tile in these Tilesets.  They are already set up
+in the Demo under Tileset #53 and #56.  (Different Autotiles)
+
+The file that the Game expects to be in use is "All Tilesets.png"
+
+If you are setting up your Map around where your Sensors can
+see, you may want to use the Sensor Tiles Displayed version.
+
+You can easily swap out the files by just RENAMING them.
+
+Rename your "All Tilesets.png" to "All Tilesets (something else).png" and
+then rename "All Tilesets (Sensor Tiles Displayed).png to "All Tilesets.png"
+but don't delete either file.  Just use the one you need when you need it.
+
+The Game Engine will just display which ever file you have named 
+to "All Tilesets.png" (unless you change that in the Editor)
+
+When you are finally ready to release your game, just use the one that do
+not have the Red X and Red O visible.  Then you can safely delete the
+other file as it is kind of large, but unnecessary in final release.

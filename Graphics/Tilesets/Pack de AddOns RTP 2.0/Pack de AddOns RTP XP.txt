@@ -1,0 +1,17 @@
+El Pack de AddOns RTP XP ha sido montado por diferentes miembros de la comunidad hispana del RPG maker,
+y en concreto representa a la comunidad Mundo Maker.
+
+Cualquiera puede distribuir el pack a través de la comunidad.
+Cualquiera puede usar los recursos del pack dando créditos al autor de cada recurso, según la carpeta en la que se encuentre.
+Si el recurso no está dentro de ninguna carpeta de autor, no requiere créditos exceptuando el tileset Tumbavilla que tiene los nombres en su interior.
+El pack está en su versión definitiva.
+
+-----
+
+The 'Pack de AddOns RTP XP' has been assembled by different members of the RPG maker hispanic community,
+and specifically represents the 'Mundo Maker' community.
+
+Anyone can distribute the pack through the communities.
+Anyone can use the resources of the pack giving credits to the author of the resource, according to its folder name.
+If the resource is not inside of any folder, it doesn't require credits except Tumbavilla which has the authors names inside.
+The pack is in its final version.
